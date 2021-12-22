@@ -130,7 +130,6 @@ ved behov.
       {
         "id": "send-in-text",
         "type": "Paragraph",
-        "componentType": 1,
         "textResourceBindings": {
           "title": "finish"
         },
@@ -218,7 +217,6 @@ ved behov.
       {
         "id": "312afa87-c2a9-4ef1-a681-26cc47462878",
         "type": "Button",
-        "componentType": 9,
         "textResourceBindings": {
           "title": "Send inn"
         },
