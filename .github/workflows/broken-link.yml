@@ -17,4 +17,5 @@ jobs:
           TARGET: https://docs.altinn.studio/
           EXCLUDED_KEYWORDS: localhost,local.altinn.cloud
           RECURSIVE: true
+          RATE_LIMIT: 1
         
