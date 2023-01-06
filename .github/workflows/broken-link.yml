@@ -15,7 +15,7 @@ jobs:
         uses: technote-space/broken-link-checker-action@v2
         with:
           TARGET: https://docs.altinn.studio/
-          EXCLUDED_KEYWORDS: localhost,local.altinn.cloud
+          EXCLUDED_KEYWORDS: localhost,local.altinn.cloud,figma.com,pedia.altinn.cloud
           RECURSIVE: true
           RATE_LIMIT: 1
         
